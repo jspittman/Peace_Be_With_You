@@ -1,0 +1,2 @@
+GetNewFactIntent peace
+GetNewFactIntent peace be with you
